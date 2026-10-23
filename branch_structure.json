@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-33-admin-multisig-rs-execute-action-for",
+    "fix/issue-31-crl-and-main-contract-revocations-are-not",
+    "fix/issue-32-admin-multisig-rs-cancel-proposal-records",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-33-admin-multisig-rs-execute-action-for": "main",
+    "fix/issue-31-crl-and-main-contract-revocations-are-not": "main",
+    "fix/issue-32-admin-multisig-rs-cancel-proposal-records": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-33-admin-multisig-rs-execute-action-for",
+    "fix/issue-31-crl-and-main-contract-revocations-are-not",
+    "fix/issue-32-admin-multisig-rs-cancel-proposal-records",
+    "origin"
+  ]
+}
